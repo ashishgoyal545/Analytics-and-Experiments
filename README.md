@@ -1,3 +1,5 @@
+![Banner](./banner.png)
+
 # 📊 Analytics & Experiments
 
 Utilities and templates for **funnels, churn, and A/B tests**.  
